@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "about"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,6 @@ output:
     theme: journal
 ---
 
-# This is Lauren's website
 
+#this is the about page
 
